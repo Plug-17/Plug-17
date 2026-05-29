@@ -1,11 +1,11 @@
-<h1 align="center">Hi Everybody!!, I'm Plug 👋</h1>
+<h1">Hi Everybody!!, I'm Plug 👋</h1>
 
-<h2 align="center">
+<h2>
 Computer Science Student (CS28) <br>
 @ Kasetsart University, Sriracha Campus
 </h2>
 
-<h3 align="center">
+<h3>
 I am interested in Programming and Data
 </h3>
 
