@@ -1,13 +1,13 @@
 <h1>Hi Everybody!!, I'm Plug 👋</h1>
 
-<h2>
+<h3>
 Computer Science Student (CS28) <br>
 @ Kasetsart University, Sriracha Campus
-</h2>
-
-<h3>
-I am interested in Programming and Data
 </h3>
+
+<h4>
+I am interested in Programming and Data
+</h4>
 
 <hr>
 
