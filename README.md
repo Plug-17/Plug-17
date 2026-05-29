@@ -1,14 +1,18 @@
 
 
- 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 <br>
-Languages
+
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c#" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs" />
 </p>
+
 <hr>
-Tools
+
+### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,microsoft visual studio,visual studio code" />
+  <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode" />
 </p>
 
