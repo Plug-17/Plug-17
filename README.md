@@ -2,9 +2,9 @@ Hi EveryBody!! , I'm Plug
 
 Computer Science / Student (CS28) @ Kasetsart University, Sriracha Campus
 
-i interest about programming and data 
+i am interesting about Programming and Data 
 
-<br>
+<hr>
 
 ## 🛠️ Tech Stack
 
