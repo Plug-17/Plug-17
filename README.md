@@ -5,7 +5,7 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,microsoft-sql-server.png" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql" />
 </p>
 
 
