@@ -13,13 +13,13 @@ I am interested in Programming and Data
 ## 🛠️ Tech Stack
 
 ### Languages&Database&Markup Language
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql" />
 </p>
 
 
 ### Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode"/>
 </p>
 
