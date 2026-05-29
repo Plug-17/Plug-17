@@ -1,8 +1,7 @@
 <h1>Hi Everybody!!, I'm Plug 👋</h1>
 
 <h3>
-Computer Science Student (CS28) <br>
-@ Kasetsart University, Sriracha Campus
+Computer Science Student (CS28) @ Kasetsart University, Sriracha Campus
 </h3>
 
 <h4>
