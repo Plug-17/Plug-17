@@ -1,4 +1,4 @@
-<h1">Hi Everybody!!, I'm Plug 👋</h1>
+<h1>Hi Everybody!!, I'm Plug 👋</h1>
 
 <h2>
 Computer Science Student (CS28) <br>
