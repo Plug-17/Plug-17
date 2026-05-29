@@ -2,14 +2,12 @@
 
 ## 🛠️ Tech Stack
 
-<br>
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,sqlite" />
 </p>
 
-<hr>
 
 ### Tools
 <p align="center">
