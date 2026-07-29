@@ -20,6 +20,6 @@ I am interested in Programming and Data
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,postman"/>
 </p>
 
