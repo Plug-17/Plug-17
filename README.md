@@ -5,7 +5,7 @@ Computer Science Student (CS28) @ Kasetsart University, Sriracha Campus
 </h3>
 
 <h4>
-I am interested in Programming and Data
+I am interested in Programming Data and computer
 </h4>
 
 <hr>
