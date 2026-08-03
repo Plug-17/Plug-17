@@ -14,7 +14,7 @@ I am interested in Programming and Data
 
 ### Languages&Database&Markup Language
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,postgresql,vue" />
 </p>
 
 
