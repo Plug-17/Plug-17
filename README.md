@@ -12,7 +12,7 @@ I am interested in Programming Data and computer
 
 ## 🛠️ Tech Stack
 
-### Languages&Database&Markup Language
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,postgresql,vue" />
 </p>
